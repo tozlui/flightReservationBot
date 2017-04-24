@@ -1,2 +1,1 @@
-# flightReservationBot
-Flight Reservation Bot
+# Flight Reservation Bot using NodeJS on Facebook Messenger
