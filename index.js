@@ -115,7 +115,7 @@ function onFinish(sender, minPrice, personNumber, origin, destination) {
         + " to " + destination);
 }
 
-
+//To do skyscanner error handling
 function getFromSkyScanner(sender, requestLink, onFinish, personNumber, origin, destination) {
     http.get(requestLink, function (res) {
         var body = '';
